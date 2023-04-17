@@ -9,8 +9,6 @@
 #include <queue>
 #include <chrono>
 
-// ADICIONAR PARTE QUE, CASO O ARQUIVO JÁ TIVER SIDO CHECADO PULA //
-
 using namespace std;
 namespace fs = std::filesystem;
 using namespace std::chrono;
